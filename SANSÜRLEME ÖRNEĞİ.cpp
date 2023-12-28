@@ -20,6 +20,6 @@ for (  int i = 0; i < x.length(); i++)      // KELİMENİN UZUNLUĞUNU DÖNGÜYE
 }
 cout<<x<<endl; // EKRANA BASMA
 
-
+return0;
 }
 
